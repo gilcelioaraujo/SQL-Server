@@ -1,0 +1,9 @@
+Explicando o CRUD
+
+CREATE: criamos ou incluímos novos dados em uma tabela;
+
+READ: lemos ou consultamos dados de uma ou mais tabelas;
+
+UPDATE: atualizamos ou alteramos os dados em uma tabela;
+
+DELETE: apagamos ou excluímos os dados em uma tabela.
